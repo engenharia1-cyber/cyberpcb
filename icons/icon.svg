@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <!-- PCBView app icon: a board with a chip, top (red) and bottom (blue) copper, gold pads. -->
+  <!-- CyberPCB app icon: a board with a chip, top (red) and bottom (blue) copper, gold pads. -->
   <rect width="512" height="512" rx="112" fill="#161b22"/>
   <rect x="72" y="72" width="368" height="368" rx="40" fill="#14532d"/>
   <rect x="72" y="72" width="368" height="368" rx="40" fill="none" stroke="#2ea043" stroke-width="10"/>
