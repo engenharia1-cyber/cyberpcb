@@ -30,6 +30,33 @@
       "url": "library/PCBView_SPI.kicad_sym",
       "file": true,
       "credit": "CyberPCB (datasheets Qorvo/Decawave DW3000 v1.3, DWM3000 Rev B)"
+    },
+    "PCBView_Module": {
+      "names": [
+        "ESP32-WROOM-32_PCB",
+        "ESP32-WROOM-32D_PCB",
+        "ESP32-WROOM-32E_PCB",
+        "ESP32-WROOM-32U_PCB",
+        "ESP32-WROOM-32UE_PCB",
+        "ESP32-S3-WROOM-1_PCB",
+        "ESP32-S3-WROOM-2_PCB",
+        "ESP32-S3-MINI-1_PCB",
+        "ESP32-S3-MINI-1U_PCB",
+        "ESP32-S2-WROVER_PCB",
+        "ESP32-C3-WROOM-02_PCB",
+        "ESP32-C3-WROOM-02U_PCB",
+        "ESP32-C6-MINI-1_PCB",
+        "ESP-WROOM-02_PCB",
+        "ESP-12E_PCB",
+        "ESP-12F_PCB",
+        "ESP-07_PCB",
+        "ESP-01_PCB",
+        "WEMOS_D1_mini_PCB",
+        "WEMOS_C3_mini_PCB"
+      ],
+      "url": "library/PCBView_Module.kicad_sym",
+      "file": true,
+      "credit": "CyberPCB (módulos na disposição da placa, a partir dos símbolos e footprints do KiCad)"
     }
   },
   "fp": {
