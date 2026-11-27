@@ -24,21 +24,23 @@
     },
     "PCBView_SPI": {
       "names": [
-        "DW3000"
+        "DW3000",
+        "DWM3000"
       ],
       "url": "library/PCBView_SPI.kicad_sym",
       "file": true,
-      "credit": "CyberPCB (datasheet Qorvo/Decawave DW3000 v1.3)"
+      "credit": "CyberPCB (datasheets Qorvo/Decawave DW3000 v1.3, DWM3000 Rev B)"
     }
   },
   "fp": {
     "PCBView_Package": {
       "names": [
         "Bosch_LGA-14_2.5x3mm_P0.5mm_BMI323",
-        "Qorvo_QFN-40_5x5mm_P0.4mm_DW3000"
+        "Qorvo_QFN-40_5x5mm_P0.4mm_DW3000",
+        "Qorvo_DWM3000"
       ],
       "url": "library/PCBView_Package.pretty/{name}.kicad_mod",
-      "credit": "CyberPCB (datasheets Bosch Sensortec BST-BMI323-DS000-13, Qorvo DW3000 v1.3)"
+      "credit": "CyberPCB (datasheets Bosch Sensortec BST-BMI323-DS000-13, Qorvo DW3000 v1.3, Qorvo DWM3000 Rev B)"
     }
   }
 }
