@@ -21,15 +21,24 @@
       "url": "library/PCBView_Regulator.kicad_sym",
       "file": true,
       "credit": "PCBView (datasheets Microchip DS21379B, DS20001373D)"
+    },
+    "PCBView_SPI": {
+      "names": [
+        "DW3000"
+      ],
+      "url": "library/PCBView_SPI.kicad_sym",
+      "file": true,
+      "credit": "CyberPCB (datasheet Qorvo/Decawave DW3000 v1.3)"
     }
   },
   "fp": {
     "PCBView_Package": {
       "names": [
-        "Bosch_LGA-14_2.5x3mm_P0.5mm_BMI323"
+        "Bosch_LGA-14_2.5x3mm_P0.5mm_BMI323",
+        "Qorvo_QFN-40_5x5mm_P0.4mm_DW3000"
       ],
       "url": "library/PCBView_Package.pretty/{name}.kicad_mod",
-      "credit": "PCBView (datasheet Bosch Sensortec BST-BMI323-DS000-13)"
+      "credit": "CyberPCB (datasheets Bosch Sensortec BST-BMI323-DS000-13, Qorvo DW3000 v1.3)"
     }
   }
 }
